@@ -2,11 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap");
-
+/* @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap"); */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100&family=Raleway:wght@100&display=swap');
 @layer base {
     body{
-        @apply font-[Raleway];
+        /* @apply font-[Raleway]; */
+        @apply font-[Kanit];
     }
     li{
         @apply px-4;
