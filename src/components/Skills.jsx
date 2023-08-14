@@ -9,6 +9,8 @@ import AWS from '../files/aws.png'
 import GitHub from '../files/github.png'
 import Tailwind from '../files/tailwind.png'
 import Mongo from '../files/mongo.png'
+import Postgresql from '../files/postgresql.png'
+import Python from '../files/python.png'
 
 const Skills = () => {
   return (
@@ -31,15 +33,15 @@ const Skills = () => {
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-20 mx-auto' src={JavaScript} alt='HTML icon' />
-                <p className='my-4'>JavaScript</p>
+                <p className='my-4'>JAVASCRIPT</p>
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-20 mx-auto' src={ReactImg} alt='HTML icon' />
-                <p className='my-4'>React</p>
+                <p className='my-4'>REACT</p>
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-20 mx-auto' src={Node} alt='HTML icon' />
-                <p className='my-4'>Node</p>
+                <p className='my-4'>NODE</p>
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-20 mx-auto' src={AWS} alt='HTML icon' />
@@ -47,15 +49,23 @@ const Skills = () => {
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-20 mx-auto' src={GitHub} alt='HTML icon' />
-                <p className='my-4'>GitHub</p>
+                <p className='my-4'>GITHUB</p>
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-20 mx-auto' src={Tailwind} alt='HTML icon' />
-                <p className='my-4'>Tailwind</p>
+                <p className='my-4'>TAILWIND</p>
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <img className='w-20 mx-auto' src={Mongo} alt='HTML icon' />
-                <p className='my-4'>Mongo</p>
+                <p className='my-4'>MONGO DB</p>
+            </div>
+            <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                <img className='w-20 mx-auto' src={Python} alt='HTML icon' />
+                <p className='my-4'>PYTHON</p>
+            </div>
+            <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                <img className='w-20 mx-auto' src={Postgresql} alt='HTML icon' />
+                <p className='my-4'>POSTGRESQL</p>
             </div>
         </div>    
     </div>
