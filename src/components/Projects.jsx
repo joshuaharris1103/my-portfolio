@@ -1,5 +1,5 @@
 import React from 'react'
-import Joshua from '../files/joshua.jpg'
+import Development from '../files/Development.png'
 // import project photos/////////
 import CourtDate from '../files/CourtDate_Screenshot.jpeg'
 import TicTacToe from '../files/TicTacToe_Screenshot.jpeg'
@@ -98,12 +98,12 @@ const Projects = () => {
                 
                 {/* Card Item */}
                 <div 
-                style={{backgroundImage:`url(${Joshua})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                style={{backgroundImage:`url(${Development})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 {/* Hover Effect */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                        React JS Application
+                        Application in Development
                         </span>
                         <div className='pt-8 text-center'>
                             <a href='/'>
@@ -124,12 +124,12 @@ const Projects = () => {
                 </div>
                 {/* Card Item */}
                 <div 
-                style={{backgroundImage:`url(${Joshua})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                style={{backgroundImage:`url(${Development})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 {/* Hover Effect */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                        React JS Application
+                        Application in Development
                         </span>
                         <div className='pt-8 text-center'>
                             <a href='/'>
@@ -150,12 +150,12 @@ const Projects = () => {
                 </div>
                 {/* Card Item */}
                 <div 
-                style={{backgroundImage:`url(${Joshua})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                style={{backgroundImage:`url(${Development})`}}className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
                 {/* Hover Effect */}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                        React JS Application
+                        Application in Development
                         </span>
                         <div className='pt-8 text-center'>
                             <a href='/'>
