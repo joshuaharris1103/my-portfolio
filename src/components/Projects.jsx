@@ -52,7 +52,7 @@ const Projects = () => {
                         JavaScript DOM Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='http://www.harrisjoshua.com/NBA-Card-Matching-Game/' target='_blank'>
+                            <a href='https://jrh-nba-matching.netlify.app/' target='_blank'>
                                 <button className='text-center rounded-lg px-4 m-2 bg-white text-gray-700'>
                                     Demo
                                 </button>
@@ -79,7 +79,7 @@ const Projects = () => {
                         Simple JS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='http://www.harrisjoshua.com/ttt-project/' target='_blank'>
+                            <a href='https://jrh-tic-tac-toe.netlify.app/' target='_blank'>
                                 <button className='text-center rounded-lg px-4 m-2 bg-white text-gray-700'>
                                     Demo
                                 </button>
