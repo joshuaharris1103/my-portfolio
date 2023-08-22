@@ -3,6 +3,7 @@ import { FaBars, FaTimes, FaLinkedin, FaGithub } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import Joshua from "../files/joshua.jpg";
+import Logo from "../files/Joshua Harris (1).png"
 import { Link } from "react-scroll";
 
 const Navbar = () => {
@@ -12,7 +13,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
-        <img src={Joshua} alt="my face" style={{ width: "50px" }} />
+        <img src={Logo} alt="JRH Logo" style={{ width: "50px" }} />
       </div>
 
       {/* menu */}
